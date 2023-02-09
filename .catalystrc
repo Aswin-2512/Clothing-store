@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "14699000000007300",
+      "name": "AlienCity",
+      "domain": {
+        "id": "10053028288",
+        "name": "aliencity-802694328.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "802694328",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
